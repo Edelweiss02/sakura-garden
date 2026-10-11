@@ -1,0 +1,414 @@
+{
+  "cat": {
+    "source": "cat.xnb",
+    "crop": null,
+    "size": [
+      128,
+      256
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "chicken": {
+    "source": "White Chicken.xnb",
+    "crop": null,
+    "size": [
+      64,
+      112
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "duck": {
+    "source": "Duck.xnb",
+    "crop": null,
+    "size": [
+      64,
+      224
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "rabbit": {
+    "source": "Rabbit.xnb",
+    "crop": null,
+    "size": [
+      64,
+      112
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "cow": {
+    "source": "Brown Cow.xnb",
+    "crop": null,
+    "size": [
+      128,
+      160
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "cherry": {
+    "source": "fruitTrees.xnb",
+    "crop": [
+      192,
+      0,
+      240,
+      80
+    ],
+    "size": [
+      48,
+      80
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "oak": {
+    "source": "tree1_spring.xnb",
+    "crop": [
+      0,
+      0,
+      48,
+      96
+    ],
+    "size": [
+      48,
+      96
+    ],
+    "alpha": [
+      0,
+      253
+    ]
+  },
+  "pine": {
+    "source": "tree3_spring.xnb",
+    "crop": [
+      0,
+      0,
+      48,
+      96
+    ],
+    "size": [
+      48,
+      96
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "bench": {
+    "source": "TileSheets/furniture.xnb",
+    "furnitureId": 202,
+    "crop": [
+      160,
+      96,
+      192,
+      128
+    ],
+    "size": [
+      32,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "flowers-pink": {
+    "source": "spring_outdoorsTileSheet.xnb",
+    "crop": [
+      112,
+      160,
+      128,
+      176
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "flowers-blue": {
+    "source": "spring_outdoorsTileSheet.xnb",
+    "crop": [
+      112,
+      192,
+      128,
+      208
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "grass": {
+    "source": "spring_outdoorsTileSheet.xnb",
+    "crop": [
+      16,
+      192,
+      32,
+      208
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "alpha": [
+      255,
+      255
+    ]
+  },
+  "lily": {
+    "source": "spring_outdoorsTileSheet.xnb",
+    "crop": [
+      320,
+      816,
+      336,
+      832
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "tuft": {
+    "source": "TerrainFeatures/grass.xnb",
+    "crop": [
+      0,
+      0,
+      16,
+      20
+    ],
+    "size": [
+      16,
+      20
+    ]
+  },
+  "pink-tree": {
+    "source": "Maps/spring_outdoorsTileSheet.xnb",
+    "crop": [
+      272,
+      0,
+      336,
+      112
+    ],
+    "modification": "Удалены соседние объекты за пределами дерева в нижних углах"
+  },
+  "water": {
+    "source": "Maps/spring_outdoorsTileSheet.xnb",
+    "crop": [
+      64,
+      784,
+      80,
+      800
+    ]
+  },
+  "tea-table": {
+    "source": "TileSheets/furniture.xnb",
+    "furnitureId": 1220,
+    "crop": [
+      64,
+      608,
+      96,
+      640
+    ],
+    "size": [
+      32,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "white-rug": {
+    "source": "TileSheets/furniture.xnb",
+    "furnitureId": 1978,
+    "crop": [
+      416,
+      976,
+      464,
+      1008
+    ],
+    "size": [
+      48,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "flower-pot": {
+    "source": "TileSheets/furniture.xnb",
+    "furnitureId": 1377,
+    "crop": [
+      16,
+      688,
+      32,
+      720
+    ],
+    "size": [
+      16,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "small-plant": {
+    "source": "TileSheets/furniture.xnb",
+    "furnitureId": 1362,
+    "crop": [
+      288,
+      672,
+      304,
+      688
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "modification": "Без перекраски"
+  },
+  "dinosaur": {
+    "source": "Animals/Dinosaur.xnb",
+    "size": [
+      64,
+      112
+    ]
+  },
+  "garden-ru.ttf": {
+    "source": [
+      "Fonts/Russian.fnt",
+      "Fonts/Russian_0.xnb"
+    ],
+    "modification": "Контуры пикселей исходного русского bitmap-шрифта преобразованы в TTF, 450 символов в исходнике."
+  },
+  "ksyushenka-sitting": {
+    "source": "Пользовательские слои farmer_girl_base, pants, shirts, hairstyles, accessories, hats",
+    "frame": 107,
+    "size": [
+      32,
+      38
+    ],
+    "modification": "Оригинальный передний кадр 107. Верхние слои подняты на 4 пикселя вместе с головой сидячей позы; прозрачный отступ сохраняет шляпу."
+  },
+  "light-chair": {
+    "source": "TileSheets/furniture.xnb",
+    "furnitureId": 6,
+    "crop": [
+      96,
+      0,
+      112,
+      32
+    ],
+    "size": [
+      16,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "spring-bush": {
+    "source": "TileSheets/bushes.xnb",
+    "crop": [
+      0,
+      0,
+      32,
+      32
+    ],
+    "size": [
+      32,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "leafy-pot": {
+    "source": "TileSheets/furniture.xnb",
+    "spriteIndex": 1376,
+    "crop": [
+      0,
+      688,
+      16,
+      720
+    ],
+    "size": [
+      16,
+      32
+    ],
+    "modification": "Без перекраски"
+  },
+  "garden-lantern": {
+    "source": "TileSheets/furniture.xnb",
+    "spriteIndex": 1369,
+    "crop": [
+      400,
+      672,
+      416,
+      688
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "modification": "Без перекраски"
+  },
+  "pink-junimo": {
+    "source": "TileSheets/furniture.xnb",
+    "spriteIndex": 1763,
+    "crop": [
+      48,
+      880,
+      64,
+      896
+    ],
+    "size": [
+      16,
+      16
+    ],
+    "modification": "Без перекраски"
+  },
+  "bird-house": {
+    "source": "TileSheets/furniture_3.xnb",
+    "spriteIndex": 46,
+    "crop": [
+      112,
+      48,
+      128,
+      96
+    ],
+    "size": [
+      16,
+      48
+    ],
+    "modification": "Без перекраски"
+  },
+  "stepping-stones": {
+    "source": "TerrainFeatures/Flooring.xnb",
+    "crop": [
+      64,
+      128,
+      128,
+      144
+    ],
+    "size": [
+      64,
+      16
+    ],
+    "modification": "Четыре исходных округлых плитки, без перекраски."
+  }
+}
